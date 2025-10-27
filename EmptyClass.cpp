@@ -14,7 +14,7 @@ int main()
 {
     Demo dobj;
 
-    cout<<sizeof(dobj); // gives 1 byte
+    cout<<sizeof(dobj); // 1 byte
 
     return 0;
 }
